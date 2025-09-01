@@ -47,8 +47,8 @@ voice-assistant/
 ### 1. Depoyu Klonlayın
 
 ```bash
-git clone https://github.com/username/voice-assistant.git
-cd voice-assistant
+git clone https://github.com/arpsglmehmetcan/ABT-Voice-Call-Assistant
+cd Voice Call Assistant 
 ```
 
 ### 2. Virtual Environment Oluşturun
@@ -775,7 +775,7 @@ selected_model = random.choice(models)
 ### Geliştirici Notları
 
 - **Proje Yöneticisi**: Mehmetcan Arapisaoğlu
-- **Repository**: https://github.com/username/voice-assistant
+- **Repository**: https://github.com/arpsglmehmetcan/ABT-Voice-Call-Assistant
 
 **Son Güncelleme**: 1 Eylül 2025  
 **Versiyon**: 1.0.0
