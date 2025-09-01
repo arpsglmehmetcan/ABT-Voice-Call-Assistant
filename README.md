@@ -778,4 +778,8 @@ selected_model = random.choice(models)
 - **Repository**: https://github.com/arpsglmehmetcan/ABT-Voice-Call-Assistant
 
 **Son Güncelleme**: 1 Eylül 2025  
+<<<<<<< HEAD
 **Versiyon**: 1.0.0
+=======
+**Versiyon**: 1.0.0
+>>>>>>> 5e19ee9 (Initial commit: Voice Call Assistant project)

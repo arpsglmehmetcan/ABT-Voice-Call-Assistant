@@ -1,0 +1,27 @@
+Flask==2.3.3
+Werkzeug==2.3.7
+openai-whisper==20231117
+torch==2.0.1
+torchaudio==2.0.2
+requests==2.31.0
+numpy==1.24.3
+scipy==1.11.3
+librosa==0.10.1
+soundfile==0.12.1
+transformers==4.33.3
+accelerate==0.21.0
+sentencepiece==0.1.99
+protobuf==4.24.3
+python-dotenv==1.0.1
+
+# Optional TTS dependencies
+# TTS==0.17.8
+# coqui-ai-tts==0.17.8
+
+# For production deployment
+gunicorn==21.2.0
+waitress==2.1.2
+
+# Testing
+pytest==7.4.2
+pytest-flask==1.2.0
